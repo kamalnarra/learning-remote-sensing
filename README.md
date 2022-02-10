@@ -26,10 +26,10 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - Data needs to be corrected to understand what is happening on the earth. Organizations like NASA have algorithms to do this.
 
   ### Spectral Signals
-  - TO DO
-
-  ### Radiation-Target Interactions
-  - TO DO
+  - Spectral signals interact with the earth in unique ways that allow us to observe things we otherwise would not be able to.
+  - Because all objects have different chemical compositions, they also have unique spectral signatures.
+  - A specific spectral band allows for image classification in remote sensing.
+  - [Here is a useful cheat-sheet for choosing an effective band](https://gisgeography.com/spectral-signature/)
 
   ### Passive vs Active Remote Sensing
   - Passive Remote Sensing: Measures the amount of electromagnetic energy naturally reflected off the Earth.
@@ -82,13 +82,13 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - Projection Information: The equation used to convert 3D to 2D. HOw you take the 3D datum and make it a 2D map.
   
   ### Geographic vs Projected CRS
-  - Geographic CRS: Use longitude, latitude, and sometimes height to describe any location on the Earth. Latitude is always consistent; however, longitude is not uniform, and     ends up translating poorly. The further you get from the equator the less accurate longitude gets. Good for globalized data.
+  - Geographic CRS: Use longitude, latitude, and sometimes height to describe any location on the Earth. Latitude is always consistent; however, longitude is not uniform, and ends up translating poorly. The further you get from the equator the less accurate longitude gets. Good for globalized data.
   - Projected CRS: Maintains constant lengths and angles across both longitude and latitude. Usually localized. Good for regional data, and distance-sensitive data.
  
   ### Types of Projections
   - You can wrap the globe in different shapes and view the map in reference to how it would appear from the surface of the shapes.
   
-    ![Types of Projections](https://docs.qgis.org/3.16/en/_images/projection_families.png)
+    ![Types of Projections](https://i.pinimg.com/originals/e2/07/d0/e207d0131e286e223909c99af04b162e.gif)
   
   ### Universal Transverse Mercator
   - Very common projected CRS.
@@ -104,4 +104,4 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - [Educational Series: A Look into the Fundamentals of Remote Sensing](https://blog.descarteslabs.com/a-look-into-the-fundamentals-of-remote-sensing)
   - [Intermediate Earth Data Science Textbook](https://www.earthdatascience.org/courses/use-data-open-source-python/)
   - [Coordinate Reference Systems](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/coordinate_reference_systems.html)
-  - 
+  - [Spectral Signature Cheatsheet- Spectral Bands in Remote Sensing](https://gisgeography.com/spectral-signature/)
