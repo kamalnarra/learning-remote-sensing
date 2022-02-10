@@ -88,7 +88,7 @@ This is a repo containing all of the code I wrote when attempting to learn about
   ### Types of Projections
   - You can wrap the globe in different shapes and view the map in reference to how it would appear from the surface of the shapes.
   
-    ![Types of Projections](![image](https://user-images.githubusercontent.com/67802369/153328435-eee4e590-577c-4f72-bd81-252926535313.png))
+    ![Types of Projections]([image](https://user-images.githubusercontent.com/67802369/153328435-eee4e590-577c-4f72-bd81-252926535313.png))
   
   ### Universal Transverse Mercator
   - Very common projected CRS.
