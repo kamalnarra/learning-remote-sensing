@@ -26,10 +26,10 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - Data needs to be corrected to understand what is happening on the earth. Organizations like NASA have algorithms to do this.
 
   ### Spectral Signals
-  - TO DO
-
-  ### Radiation-Target Interactions
-  - TO DO
+  - Spectral signals interact with the earth in unique ways that allow us to observe things we otherwise would not be able to.
+  - Because all objects have different chemical compositions, they also have unique spectral signatures.
+  - A specific spectral band allows for image classification in remote sensing.
+  - [Here is a useful cheat-sheet for which bands are effective in which cases](https://gisgeography.com/spectral-signature/)
 
   ### Passive vs Active Remote Sensing
   - Passive Remote Sensing: Measures the amount of electromagnetic energy naturally reflected off the Earth.
@@ -104,4 +104,4 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - [Educational Series: A Look into the Fundamentals of Remote Sensing](https://blog.descarteslabs.com/a-look-into-the-fundamentals-of-remote-sensing)
   - [Intermediate Earth Data Science Textbook](https://www.earthdatascience.org/courses/use-data-open-source-python/)
   - [Coordinate Reference Systems](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/coordinate_reference_systems.html)
-  - 
+  - [Spectral Signature Cheatsheet- Spectral Bands in Remote Sensing](https://gisgeography.com/spectral-signature/)
