@@ -29,7 +29,7 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - Spectral signals interact with the earth in unique ways that allow us to observe things we otherwise would not be able to.
   - Because all objects have different chemical compositions, they also have unique spectral signatures.
   - A specific spectral band allows for image classification in remote sensing.
-  - [Here is a useful cheat-sheet for which bands are effective in which cases](https://gisgeography.com/spectral-signature/)
+  - [Here is a useful cheat-sheet for choosing an effective band](https://gisgeography.com/spectral-signature/)
 
   ### Passive vs Active Remote Sensing
   - Passive Remote Sensing: Measures the amount of electromagnetic energy naturally reflected off the Earth.
@@ -82,7 +82,7 @@ This is a repo containing all of the code I wrote when attempting to learn about
   - Projection Information: The equation used to convert 3D to 2D. HOw you take the 3D datum and make it a 2D map.
   
   ### Geographic vs Projected CRS
-  - Geographic CRS: Use longitude, latitude, and sometimes height to describe any location on the Earth. Latitude is always consistent; however, longitude is not uniform, and     ends up translating poorly. The further you get from the equator the less accurate longitude gets. Good for globalized data.
+  - Geographic CRS: Use longitude, latitude, and sometimes height to describe any location on the Earth. Latitude is always consistent; however, longitude is not uniform, and ends up translating poorly. The further you get from the equator the less accurate longitude gets. Good for globalized data.
   - Projected CRS: Maintains constant lengths and angles across both longitude and latitude. Usually localized. Good for regional data, and distance-sensitive data.
  
   ### Types of Projections
